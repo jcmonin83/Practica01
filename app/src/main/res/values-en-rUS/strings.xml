@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="created_by">JCGL</string>
+    <string name="version">0.0</string>
+    <string name="splasDelay">5</string>
+    <string name="optionText">Choose task:</string>
+    <string name="btnOperacion">Do</string>
+    <string name="titleAdd">Addition</string>
+    <string name="sumando01">Adding up 01</string>
+    <string name="sumando02">Adding up 02</string>
+    <string name="titleSqrt">Sqrt</string>
+    <string name="titlePow">Pow</string>
+    <string name="btnResultado">Result</string>
+    <string name="base">Base</string>
+    <string name="exponente">Exponent</string>
+    <string name="radicando">Radical</string>
+    <string name="oseleccion">-- Choose one --</string>
+    <string name="osuma">Addition</string>
+    <string name="oraiz">Sqrt</string>
+    <string name="oexponente">Pow</string>
+    <string name="btnInicio">Main</string>
+    <string name="btnOk">Ok</string>
+    <string name="txtEs">is</string>
+    <string name="txtResultado">Result of</string>
+    <string name="lgndZero">Not apply 0 or negative or empty.</string>
+</resources>

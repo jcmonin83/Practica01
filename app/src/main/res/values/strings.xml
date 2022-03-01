@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="created_by" translatable="false">JCGL</string>
+    <string name="version" translatable="false">0.0</string>
+    <string name="splasDelay" translatable="false">5</string>
+
+    <string name="optionText">Elija operación:</string>
+    <string name="btnOperacion">Realizar</string>
+    <string name="lgndZero">Cero o negativo o vacio no aplican.</string>
+<!--    Operaciones-->
+    <string name="oseleccion">-- Seleccione --</string>
+    <string name="osuma">Suma</string>>
+    <string name="oraiz">Raiz</string>
+    <string name="oexponente">Exponente</string>
+
+    <string-array name="operationOptions">
+        <item>@string/oseleccion</item>
+        <item>@string/osuma</item>>
+        <item>@string/oraiz</item>
+        <item>@string/oexponente</item>
+    </string-array>
+
+    <string name="titleAdd">Suma</string>
+    <string name="sumando01">Sumando 01</string>
+    <string name="sumando02">Sumando 02</string>
+
+    <string name="titleSqrt">Raiz Cuadrada</string>
+    <string name="radicando">Radicando</string>
+
+    <string name="titlePow">Exponente</string>
+    <string name="base">Base</string>
+    <string name="exponente">Exponente</string>
+
+    <string name="txtResultado">El resultado de</string>
+    <string name="btnResultado">Resultado</string>
+    <string name="btnInicio">Principal</string>
+    <string name="btnOk">Ok</string>
+    <string name="txtEs">es</string>
+</resources>
